@@ -66,7 +66,6 @@ L'interface utilisateur permet d'interagir avec le programme :
    ```bash
     ./projet-tetris
 
-
 ## Utilisation
 
 Le programme commence automatiquement en mode de jeu.
