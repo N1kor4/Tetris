@@ -57,13 +57,12 @@ L'interface utilisateur permet d'interagir avec le programme :
    git clone https://github.com/votre-utilisateur/projet-tetris.git
 
 2. Compilez le projet (nécessite un compilateur C++) :
-  ```bash
-  make
-``` 
+     ```bash
+     make
+
 3. Lancez le programme :
-  ```bash
-  ./projet-tetris
-```
+     ```bash
+     ./projet-tetris
 
 ## Utilisation
 
