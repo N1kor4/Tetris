@@ -58,31 +58,30 @@ L'interface utilisateur permet d'interagir avec le programme :
    
 2. Compilez le projet (nécessite un compilateur C++) :
 
-```bash
-  make
-```
+   ```bash
+   make
 
 3. Lancez le programme :
 
-```bash
+   ```bash
     ./projet-tetris
-```
+
 
 ## Utilisation
 
-    Le programme commence automatiquement en mode de jeu.
-    Vous pouvez ajuster les paramètres via l'interface utilisateur.
+Le programme commence automatiquement en mode de jeu.
+Vous pouvez ajuster les paramètres via l'interface utilisateur.
 
 ## Problèmes connus
 
-    Limitation du score : Le programme ne parvient pas à dépasser un score de 2000 points, probablement en raison d'un bug dans la recherche de maximum pour les coups possibles.
-    Optimisation : Bien que le jeu fonctionne, certaines optimisations sont encore nécessaires pour améliorer la performance et l'efficacité du placement des pièces.
+Limitation du score : Le programme ne parvient pas à dépasser un score de 2000 points, probablement en raison d'un bug dans la recherche de maximum pour les coups possibles.
+Optimisation : Bien que le jeu fonctionne, certaines optimisations sont encore nécessaires pour améliorer la performance et l'efficacité du placement des pièces.
 
 ## Améliorations futures
 
-    Résolution des problèmes de score et d'évaluation des coups.
-    Ajout d'un mode joueur où l'utilisateur pourrait jouer directement contre l'ordinateur.
-    Amélioration de l'algorithme de placement des pièces pour surpasser les performances humaines.
+Résolution des problèmes de score et d'évaluation des coups.
+Ajout d'un mode joueur où l'utilisateur pourrait jouer directement contre l'ordinateur.
+Amélioration de l'algorithme de placement des pièces pour surpasser les performances humaines.
 
 ## Licence
 
