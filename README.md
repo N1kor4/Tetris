@@ -54,7 +54,7 @@ L'interface utilisateur permet d'interagir avec le programme :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/projet-tetris.git
+   git clone https://github.com/N1kor4/Tetris
 
 2. Compilez le projet (nécessite un compilateur C++) :
      ```bash
@@ -84,12 +84,3 @@ Amélioration de l'algorithme de placement des pièces pour surpasser les perfor
 
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
 
-### Comment intégrer à votre dépôt GitHub
-
-1. Copiez ce texte dans un fichier nommé `README.md`.
-2. Placez ce fichier à la racine de votre dépôt local.
-3. Ajoutez, validez et poussez les changements vers GitHub :
-   ```bash
-   git add README.md
-   git commit -m "Ajout du fichier README"
-   git push origin main
